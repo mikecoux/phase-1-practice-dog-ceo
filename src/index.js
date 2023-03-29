@@ -1,5 +1,3 @@
-const breedsArray = []
-
 document.addEventListener('DOMContentLoaded', init())
 
 function init () {
